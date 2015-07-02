@@ -1,6 +1,6 @@
 {
   "name": "file-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "wavelet": {
     "fx-config": "*",
     "fx-logger": "*",

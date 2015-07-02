@@ -2,19 +2,20 @@
   "name": "file-server",
   "version": "0.0.2",
   "wavelet": {
-    "fx-config": "*",
-    "fx-logger": "*",
-    "fx-eventbus": "*",
-    "fx-express": "*",
-    "fx-ejs": "*",
-    "fx-file": "*",
-    "fx-middleware": "*",
-    "fx-mongodb": "*",
-    "fx-red": "*",
-    "fx-red-config": "*",
-    "fx-red-ejs": "*",
+    "fx-config"      : "*",
+    "fx-logger"      : "*",
+    "fx-eventbus"    : "*",
+    "fx-express"     : "*",
+    "fx-ejs"         : "*",
+    "fx-file"        : "*",
+    "fx-basic-auth"  : "*",
+    "fx-middleware"  : "*",
+    "fx-mongodb"     : "*",
+    "fx-red"         : "*",
+    "fx-red-config"  : "*",
+    "fx-red-ejs"     : "*",
     "fx-red-eventbus": "*",
-    "fx-red-file": "*",
-    "fx-red-mongodb": "*"
+    "fx-red-file"    : "*",
+    "fx-red-mongodb" : "*"
   }
 }

@@ -2,3 +2,9 @@ node_modules
 .idea
 logs
 repo
+upload
+upload_bak
+.config.json
+.flow.json.backup
+.flow_cred.json.backup
+.session.json
